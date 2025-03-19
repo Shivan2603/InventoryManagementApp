@@ -1,0 +1,540 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Qatraccia\\InventoryManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|E:\\Qatraccia\\InventoryManagementApp\\inventorymanagementapp\\forms\\productmanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\forms\\productmanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|E:\\Qatraccia\\InventoryManagementApp\\inventorymanagementapp\\forms\\productmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\forms\\productmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|E:\\Qatraccia\\InventoryManagementApp\\inventorymanagementapp\\forms\\managerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\forms\\managerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|e:\\qatraccia\\inventorymanagementapp\\inventorymanagementapp\\forms\\reportsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\forms\\reportsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|E:\\Qatraccia\\InventoryManagementApp\\inventorymanagementapp\\data\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\data\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|E:\\Qatraccia\\InventoryManagementApp\\inventorymanagementapp\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|E:\\Qatraccia\\InventoryManagementApp\\inventorymanagementapp\\forms\\managerlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\forms\\managerlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|E:\\Qatraccia\\InventoryManagementApp\\inventorymanagementapp\\forms\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\forms\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|E:\\Qatraccia\\InventoryManagementApp\\inventorymanagementapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|E:\\Qatraccia\\InventoryManagementApp\\inventorymanagementapp\\forms\\barcodeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\forms\\barcodeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|E:\\Qatraccia\\InventoryManagementApp\\inventorymanagementapp\\utils\\barcodegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\utils\\barcodegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|E:\\Qatraccia\\InventoryManagementApp\\inventorymanagementapp\\forms\\barcodeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\forms\\barcodeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|E:\\Qatraccia\\InventoryManagementApp\\inventorymanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|E:\\Qatraccia\\InventoryManagementApp\\inventorymanagementapp\\forms\\homescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\forms\\homescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|e:\\qatraccia\\inventorymanagementapp\\inventorymanagementapp\\migrations\\20250319051155_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\migrations\\20250319051155_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|E:\\Qatraccia\\InventoryManagementApp\\inventorymanagementapp\\forms\\billpersonlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\forms\\billpersonlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|E:\\Qatraccia\\InventoryManagementApp\\inventorymanagementapp\\forms\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\forms\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|E:\\Qatraccia\\InventoryManagementApp\\inventorymanagementapp\\forms\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\forms\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|E:\\Qatraccia\\InventoryManagementApp\\inventorymanagementapp\\forms\\homescreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\forms\\homescreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|e:\\qatraccia\\inventorymanagementapp\\inventorymanagementapp\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|E:\\Qatraccia\\InventoryManagementApp\\inventorymanagementapp\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|E:\\Qatraccia\\InventoryManagementApp\\inventorymanagementapp\\data\\inventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\data\\inventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|E:\\Qatraccia\\InventoryManagementApp\\inventorymanagementapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|E:\\Qatraccia\\InventoryManagementApp\\inventorymanagementapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|E:\\Qatraccia\\InventoryManagementApp\\inventorymanagementapp\\models\\billperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\models\\billperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|E:\\Qatraccia\\InventoryManagementApp\\inventorymanagementapp\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|E:\\Qatraccia\\InventoryManagementApp\\inventorymanagementapp\\forms\\dashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\forms\\dashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|E:\\Qatraccia\\InventoryManagementApp\\inventorymanagementapp\\forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|E:\\Qatraccia\\InventoryManagementApp\\inventorymanagementapp\\forms\\billpersonlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\forms\\billpersonlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|E:\\Qatraccia\\InventoryManagementApp\\inventorymanagementapp\\forms\\billing.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\forms\\billing.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|E:\\Qatraccia\\InventoryManagementApp\\inventorymanagementapp\\extensions\\queryextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C106E64-FAB6-41F7-BB8E-AD98E9F453B7}|InventoryManagementApp\\InventoryManagementApp.csproj|solutionrelative:inventorymanagementapp\\extensions\\queryextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductManagementForm.cs",
+              "DocumentMoniker": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Forms\\ProductManagementForm.cs",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Forms\\ProductManagementForm.cs",
+              "ToolTip": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Forms\\ProductManagementForm.cs",
+              "RelativeToolTip": "InventoryManagementApp\\Forms\\ProductManagementForm.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAuwH8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:29:41.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Data\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Data\\DatabaseHelper.cs",
+              "ToolTip": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Data\\DatabaseHelper.cs",
+              "RelativeToolTip": "InventoryManagementApp\\Data\\DatabaseHelper.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:37:54.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportsForm.Designer.cs",
+              "DocumentMoniker": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Forms\\ReportsForm.Designer.cs",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Forms\\ReportsForm.Designer.cs",
+              "ToolTip": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Forms\\ReportsForm.Designer.cs",
+              "RelativeToolTip": "InventoryManagementApp\\Forms\\ReportsForm.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T04:47:53.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductManagementForm.Designer.cs",
+              "DocumentMoniker": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Forms\\ProductManagementForm.Designer.cs",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Forms\\ProductManagementForm.Designer.cs",
+              "ToolTip": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Forms\\ProductManagementForm.Designer.cs",
+              "RelativeToolTip": "InventoryManagementApp\\Forms\\ProductManagementForm.Designer.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAQwGcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:55:59.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Data\\DbInitializer.cs",
+              "ToolTip": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "InventoryManagementApp\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:31:33.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManagerLogin.Designer.cs",
+              "DocumentMoniker": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Forms\\ManagerLogin.Designer.cs",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Forms\\ManagerLogin.Designer.cs",
+              "ToolTip": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Forms\\ManagerLogin.Designer.cs",
+              "RelativeToolTip": "InventoryManagementApp\\Forms\\ManagerLogin.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:55:43.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Models\\Product.cs",
+              "ToolTip": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Models\\Product.cs",
+              "RelativeToolTip": "InventoryManagementApp\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:37:48.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManagerLogin.cs",
+              "DocumentMoniker": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Forms\\ManagerLogin.cs",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Forms\\ManagerLogin.cs",
+              "ToolTip": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Forms\\ManagerLogin.cs",
+              "RelativeToolTip": "InventoryManagementApp\\Forms\\ManagerLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:55:36.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReportsForm.cs",
+              "DocumentMoniker": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Forms\\ReportsForm.cs",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Forms\\ReportsForm.cs",
+              "ToolTip": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Forms\\ReportsForm.cs",
+              "RelativeToolTip": "InventoryManagementApp\\Forms\\ReportsForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:56:10.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BarcodeForm.Designer.cs",
+              "DocumentMoniker": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Forms\\BarcodeForm.Designer.cs",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Forms\\BarcodeForm.Designer.cs",
+              "ToolTip": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Forms\\BarcodeForm.Designer.cs",
+              "RelativeToolTip": "InventoryManagementApp\\Forms\\BarcodeForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:54:11.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BarcodeForm.cs",
+              "DocumentMoniker": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Forms\\BarcodeForm.cs",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Forms\\BarcodeForm.cs",
+              "ToolTip": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Forms\\BarcodeForm.cs",
+              "RelativeToolTip": "InventoryManagementApp\\Forms\\BarcodeForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:54:05.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BarcodeGenerator.cs",
+              "DocumentMoniker": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Utils\\BarcodeGenerator.cs",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Utils\\BarcodeGenerator.cs",
+              "ToolTip": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Utils\\BarcodeGenerator.cs",
+              "RelativeToolTip": "InventoryManagementApp\\Utils\\BarcodeGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:37:44.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Program.cs",
+              "ToolTip": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Program.cs",
+              "RelativeToolTip": "InventoryManagementApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:37:42.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeScreen.cs",
+              "DocumentMoniker": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Forms\\HomeScreen.cs",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Forms\\HomeScreen.cs",
+              "ToolTip": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Forms\\HomeScreen.cs",
+              "RelativeToolTip": "InventoryManagementApp\\Forms\\HomeScreen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:55:22.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Billing.cs",
+              "DocumentMoniker": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Forms\\Billing.cs",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Forms\\Billing.cs",
+              "ToolTip": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Forms\\Billing.cs",
+              "RelativeToolTip": "InventoryManagementApp\\Forms\\Billing.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwCMAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:54:20.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250319051155_InitialCreate.cs",
+              "DocumentMoniker": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Migrations\\20250319051155_InitialCreate.cs",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Migrations\\20250319051155_InitialCreate.cs",
+              "ToolTip": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Migrations\\20250319051155_InitialCreate.cs",
+              "RelativeToolTip": "InventoryManagementApp\\Migrations\\20250319051155_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T05:11:55.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BillPersonLogin.cs",
+              "DocumentMoniker": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Forms\\BillPersonLogin.cs",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Forms\\BillPersonLogin.cs",
+              "ToolTip": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Forms\\BillPersonLogin.cs",
+              "RelativeToolTip": "InventoryManagementApp\\Forms\\BillPersonLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:54:53.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReportsForm.cs [Design]",
+              "DocumentMoniker": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Forms\\ReportsForm.cs",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Forms\\ReportsForm.cs",
+              "ToolTip": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Forms\\ReportsForm.cs [Design]",
+              "RelativeToolTip": "InventoryManagementApp\\Forms\\ReportsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:56:07.033Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeScreen.Designer.cs",
+              "DocumentMoniker": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Forms\\HomeScreen.Designer.cs",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Forms\\HomeScreen.Designer.cs",
+              "ToolTip": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Forms\\HomeScreen.Designer.cs",
+              "RelativeToolTip": "InventoryManagementApp\\Forms\\HomeScreen.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:55:28.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Services\\ProductService.cs",
+              "ToolTip": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Services\\ProductService.cs",
+              "RelativeToolTip": "InventoryManagementApp\\Services\\ProductService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:37:45.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "InventoryManagement.cs",
+              "DocumentMoniker": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Data\\InventoryManagement.cs",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Data\\InventoryManagement.cs",
+              "ToolTip": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Data\\InventoryManagement.cs",
+              "RelativeToolTip": "InventoryManagementApp\\Data\\InventoryManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:53:50.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Models\\AuditLog.cs",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Models\\AuditLog.cs",
+              "ToolTip": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Models\\AuditLog.cs",
+              "RelativeToolTip": "InventoryManagementApp\\Models\\AuditLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:56:24.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "packages.config",
+              "DocumentMoniker": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\packages.config",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\packages.config",
+              "ToolTip": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\packages.config",
+              "RelativeToolTip": "InventoryManagementApp\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-18T17:42:42.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\App.config",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\App.config",
+              "ToolTip": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\App.config",
+              "RelativeToolTip": "InventoryManagementApp\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-18T17:42:56.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Models\\User.cs",
+              "ToolTip": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Models\\User.cs",
+              "RelativeToolTip": "InventoryManagementApp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:37:47.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BillPerson.cs",
+              "DocumentMoniker": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Models\\BillPerson.cs",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Models\\BillPerson.cs",
+              "ToolTip": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Models\\BillPerson.cs",
+              "RelativeToolTip": "InventoryManagementApp\\Models\\BillPerson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:56:31.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DashboardForm.Designer.cs",
+              "DocumentMoniker": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Forms\\DashboardForm.Designer.cs",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Forms\\DashboardForm.Designer.cs",
+              "ToolTip": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Forms\\DashboardForm.Designer.cs",
+              "RelativeToolTip": "InventoryManagementApp\\Forms\\DashboardForm.Designer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:55:14.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DashboardForm.cs",
+              "DocumentMoniker": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Forms\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Forms\\DashboardForm.cs",
+              "ToolTip": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Forms\\DashboardForm.cs",
+              "RelativeToolTip": "InventoryManagementApp\\Forms\\DashboardForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:55:08.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BillPersonLogin.Designer.cs",
+              "DocumentMoniker": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Forms\\BillPersonLogin.Designer.cs",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Forms\\BillPersonLogin.Designer.cs",
+              "ToolTip": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Forms\\BillPersonLogin.Designer.cs",
+              "RelativeToolTip": "InventoryManagementApp\\Forms\\BillPersonLogin.Designer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:54:59.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Billing.Designer.cs",
+              "DocumentMoniker": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Forms\\Billing.Designer.cs",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Forms\\Billing.Designer.cs",
+              "ToolTip": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Forms\\Billing.Designer.cs",
+              "RelativeToolTip": "InventoryManagementApp\\Forms\\Billing.Designer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:54:28.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "QueryExtensions.cs",
+              "DocumentMoniker": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Extensions\\QueryExtensions.cs",
+              "RelativeDocumentMoniker": "InventoryManagementApp\\Extensions\\QueryExtensions.cs",
+              "ToolTip": "E:\\Qatraccia\\InventoryManagementApp\\InventoryManagementApp\\Extensions\\QueryExtensions.cs",
+              "RelativeToolTip": "InventoryManagementApp\\Extensions\\QueryExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:53:56.655Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
