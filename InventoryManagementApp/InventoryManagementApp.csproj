@@ -248,11 +248,6 @@
     <Compile Include="Forms\ReportsForm.Designer.cs">
       <DependentUpon>ReportsForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\20250319051155_InitialCreate.cs" />
-    <Compile Include="Migrations\20250319051155_InitialCreate.Designer.cs">
-      <DependentUpon>20250319051155_InitialCreate.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\DatabaseHelperModelSnapshot.cs" />
     <Compile Include="Models\BillPerson.cs" />
     <Compile Include="Models\User.cs" />
     <Compile Include="Models\AuditLog.cs" />
